@@ -1,11 +1,20 @@
 :root {
 --cor-ficha: #D07D5A;
---pirata: #b92222;
---agente: #9C9C9C;
---marinheiro: #6BB8DB;
---cacador: #bfc342;
---revolucionario: #B34B54;
---civil: #c1ac75;
+--artistas: #b92222;
+--cavaleiros: #9C9C9C;
+--clérigos: #6BB8DB;
+--druidas: #bfc342;
+--feiticeiros: #B34B54;
+--guerreiros: #c1ac75;
+--ladinos: #CD5C5C;
+--magos: #00CED1;
+--monges: #F08080;
+--ninjas: #191970;
+--nobres: #FFD700;
+--paladinos: #BEBEBE;
+--sentinelas: #228B22;
+--multiclasses: #FF8C00;
+--aprendizes: #6B8E23;
 }
 
 #ficha-opab {
